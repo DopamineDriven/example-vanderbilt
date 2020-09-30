@@ -1,0 +1,29 @@
+html {
+	background: #c31432; /* fallback for old browsers */
+	background: -webkit-linear-gradient(
+		to top,
+		#240b36,
+		#c31432
+	); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(
+		to top,
+		#240b36,
+		#c31432
+	); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+body {
+    height: 100vh;
+    min-height: 100vh;
+}
+
+
+.firstDiv {
+	margin: 4rem;
+	align: center;
+	content: center;
+}
+
+.anchorClass {
+	color: #e535ab;
+}
